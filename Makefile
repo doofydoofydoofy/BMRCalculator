@@ -4,5 +4,5 @@
 all: BMRCalculator.c
 	gcc BMRCalculator.c -o BMRCalculator -Wall
 clear:
-	rm BMRCalculator.c
+	rm BMRCalculator
 
